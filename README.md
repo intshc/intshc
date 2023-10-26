@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @intshc
 - 👀 I’m interested how to become developer
-- 🌱 I’m currently learning c, java
+- 🌱 I’m currently learning java, spring boot, jpa, ci/cd
 - 💞️ At least now I’m not looking to collaborate on 
 - 📫 How to reach me? intshc@gmail.com
 
